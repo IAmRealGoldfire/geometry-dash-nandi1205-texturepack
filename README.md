@@ -3,4 +3,4 @@ version 0.0.1
 
 unzip in E:\Steam\steamapps\common\Geometry Dash\Resourses
 
-works only on high graphcis.
+works only on high graphics.
